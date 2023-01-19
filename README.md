@@ -34,7 +34,9 @@ Cable gemelo Terminal para corriente
 
 Boquilla y foco 
 
-Hacemos uso de nuestro diagrama pictórico para armar el circuito.
+Hacemos uso de nuestro diagrama pictórico y esquemático para armar el circuito.
+
+![image](https://user-images.githubusercontent.com/116831534/213514752-3637d19d-a448-4be6-8a36-a80177c09d36.png)
 
 ![image](https://user-images.githubusercontent.com/116831534/213510999-34f2429f-596f-4fbf-929c-478aa52dde4a.png)
 
